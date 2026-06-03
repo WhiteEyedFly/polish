@@ -18,9 +18,19 @@ polishWordsOnly = []
 for word in range(len(polishWords)):
     i = polishWords[word].index(" - ")
     translation = polishWords[word][:i]
-    polishWord = polishWords[word][i+2:]
-    if translation in iWE:
-        polishDict[polishWords[word][:i]] = polishWords[word][i+2:]
+    polishWord = polishWords[word][i+3:]
+    
+    possibleTranslations = []
+    start = 0
+    
+    for i in range(len(polishWord)):
+        if polishWord[i] == ";":
+            possibleTranslations.append(polishWord[start:i])
+            start = i+2
+    possibleTranslations.append(polishWord[start:])
+    
+    if translation in iWE and len(translation) > 1:
+        polishDict[translation] = possibleTranslations
 
 with open("polishDict.json", "w") as f:
     json.dump(polishDict, f, indent=4)
