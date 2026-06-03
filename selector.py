@@ -9,6 +9,7 @@ with open("polishDict.json") as f:
     
 def checker():
     global answer, toTranslate, blank, point, incCounter
+    print(incCounter)
     
     if entry.get() == answer:
         cv = point.get()
@@ -24,7 +25,7 @@ def checker():
     blank.set("")
     
     if incCounter > 2:
-        resp.set("The answer was '" + answer + "'. Let's try something else")
+        resp.set("3 strikes, you're out. '" + toTranslate.get() + "' translates to '" + answer + "'! Let's try something else")
         
         pair = chooseNewWord()
         answer = pair[0]
@@ -46,7 +47,7 @@ def main():
 # Make window
 window = ttk.Window(themename="journal")
 window.title("Translate the below")
-window.geometry("400x200")
+window.geometry("400x250")
 
 # Initialise variables
 pair = chooseNewWord()
@@ -72,7 +73,7 @@ button = ttk.Button(master = entry_container, text = "Submit", command = checker
 output_container = ttk.Frame(master = window)
 pointer = ttk.Label(master = output_container, text = "Points: ")
 points = ttk.Label(master = output_container, textvariable = point)
-response = ttk.Label(master = window, textvariable = resp)
+response = ttk.Label(master = window, textvariable = resp, wraplength=250, justify="center")
 
 # Packing
 label.pack()
