@@ -32,7 +32,7 @@ for word in range(len(polishWords)):
     if translation in iWE and len(translation) > 1:
         polishDict[translation] = possibleTranslations
 
-with open("polishDict.json", "w") as f:
+with open("dicts/polishDict.json", "w") as f:
     json.dump(polishDict, f, indent=4)
     
 

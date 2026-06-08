@@ -8,8 +8,9 @@ with open("polishDict.json") as f:
     dictionary = json.load(f)
     
 def checker():
+    # Guess 1: Starts with "xy"
+    # Guess 2: Rhymes with "word"
     global answer, toTranslate, blank, point, incCounter
-    print(incCounter)
     
     if entry.get() == answer:
         cv = point.get()
