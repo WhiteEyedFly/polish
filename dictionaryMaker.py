@@ -23,17 +23,18 @@ Exclude any word that are a form of another word
 """
 
 import json
+unacceptable_tags = ["inflection-template", "error-unrecognized-form", "dialectal", "rare", "obsolete", "defective", "archaic", "Łowicz", "Lithuania", "dated", "uncommon", "Poznań", "regional", "Lviv", "form-of"]
 
 def build_word(exploring):
-    built_dict = {}
-    
     sounds = find_sounds(exploring)
-        
-    built_dict["word_type"] =        exploring["pos"]
-    built_dict["translations"] =     build_translations(exploring)
-    built_dict["ipa"] =              sounds["ipa"]
-    built_dict["rhyme_scheme"] =     sounds["rhyme_scheme"]
-    built_dict["forms"] =            build_forms(exploring)
+    
+    built_dict = {
+        "word_type":        exploring["pos"],
+        "translations":     build_translations(exploring),
+        "ipa":              sounds["ipa"],
+        "rhyme_scheme":     sounds["rhyme_scheme"],
+        "forms":            build_forms(exploring)
+    }
     
     return built_dict
 
@@ -56,23 +57,39 @@ def find_sounds(exploring):
         
     return sounds
 
+def is_english(string):
+    try:
+        string.encode(encoding="utf-8").decode("ascii")
+    except UnicodeDecodeError:
+        return False
+    else:
+        return True
+
 def build_translations(exploring):
     translations = []
         
     for sense in exploring["senses"]:
+        acceptable = True
         
-        if "links" in sense:
+        trans_listed = []
+        
+        while acceptable:
+            if "tags" in sense:
+                for tag in sense["tags"]:
+                    if tag in unacceptable_tags:
+                        acceptable = False
+            else:
+                acceptable = False
+                
+            if "links" not in sense:
+                acceptable = False
+            break
+        
+        if acceptable:
             for link in sense["links"]:
-                translation = {"translation": "[]", "tags": []}
-                
-                translation["translation"] = link[0]
-                
-                if "tags" in sense:
-                    translation["tags"] = sense["tags"]
-                else:
-                    translation["tags"] = ["No tags found"]
-                
-                translations.append(translation)
+                if is_english(link[0]) and link[0] not in trans_listed:
+                    translations.append({"translation": link[0], "tags": sense["tags"]})
+                    trans_listed.append(link[0])
         
     return translations
 
@@ -80,17 +97,30 @@ def build_forms(exploring):
     forms = []
     
     for form in exploring["forms"]:
-        if form["form"] != "no-table-tags" and form["form"] != "pl-decl-noun-m-in":
-            f = {}
-            
-            f["form"] = form["form"]
+        forms_listed = []
+        acceptable = True
+        
+        while acceptable:
+            if form["form"] == "no-table-tags":
+                acceptable = False
+            elif form["form"] == "pl-decl-noun-m-in":
+                acceptable = False
             
             if "tags" in form:
-                f["tags"] = form["tags"]
+                for tag in form["tags"]:
+                    if tag in unacceptable_tags:
+                        acceptable = False
             else:
-                f["tags"] = ["No tags found"]
-            
+                acceptable = False
+                
+            if form["form"] in forms_listed:
+                acceptable = False
+            break
+        
+        if acceptable:
+            f = {"form": form["form"], "tags": form["tags"]}
             forms.append(f)
+            forms_listed.append(form["form"])
     
     return forms
     
@@ -105,7 +135,10 @@ def make_dict(input_file, output_file):
         
         if "forms" in exploring and exploring["word"] not in dictionary:
             # Ignores duplicate words for now
-            dictionary[exploring["word"]] = build_word(exploring)
+            word = build_word(exploring)
+            # Remove words with no valid translation
+            if word["translations"] != []:
+                dictionary[exploring["word"]] = build_word(exploring)
 
     with open("dictionariesMade/" + output_file, "w") as f:
         json.dump(dictionary, f, indent=4)

@@ -6,3 +6,8 @@ I found a list online of the 3,000 most common English words and a ripped a Poli
 Each incorrect answer it gives you a hint (or it will when I've finished with it).
 
 The dictionary is already set up, you just need to run selector.py 
+
+Resources:
+https://en.wikipedia.org/wiki/Wikipedia:Database_download
+https://kaikki.org/
+
