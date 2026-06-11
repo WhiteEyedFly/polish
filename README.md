@@ -21,6 +21,7 @@ Place these files in the wikipediasUnparsed and dictionariesSource folders as ap
 Run: dictionaryMaker.py, filterWordByType.py and wordCount.py in that order
 
 Then:
+
 sentenceGenerator.py can be ran to generate a random sentence in your target language with a rough English translation
 
 translator.py can be ran to translate a sentence the user feeds in back to english from the chosen language 
