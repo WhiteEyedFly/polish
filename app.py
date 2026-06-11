@@ -135,5 +135,5 @@ main()
 # Make a translator
 # Write the README
 # Package the big files
-# Post to git and linkedin
-# Call it a day
+# Post to git
+# Choose next project

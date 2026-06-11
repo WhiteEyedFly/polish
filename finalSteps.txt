@@ -1,2 +1,0 @@
-Refactor for multiple translations
-Turn into a usable app with scalable parameters and that allows you to select word types / sentence generator
