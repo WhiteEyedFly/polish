@@ -1,0 +1,92 @@
+{
+    "which": [
+        {
+            "form": "wich",
+            "tags": [
+                "alternative",
+                "Jamaica"
+            ]
+        }
+    ],
+    "before": [
+        {
+            "form": "be4",
+            "tags": [
+                "alternative",
+                "Internet"
+            ]
+        }
+    ],
+    "if": [
+        {
+            "form": "if'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "'cause": [
+        {
+            "form": "cauz",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ef": [
+        {
+            "form": "eff",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "til": [
+        {
+            "form": "'til",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "as soon as": [
+        {
+            "form": "soon as",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "iffen": [
+        {
+            "form": "if'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ifen": [
+        {
+            "form": "if'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "the way": [
+        {
+            "form": "the way that",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "inb4": [
+        {
+            "form": "in before",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ]
+}

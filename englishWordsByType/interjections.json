@@ -1,0 +1,3024 @@
+{
+    "motherfucker": [
+        {
+            "form": "motherf****r",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "welcome": [
+        {
+            "form": "welcum",
+            "tags": [
+                "alternative",
+                "pronunciation-spelling"
+            ]
+        }
+    ],
+    "g'day": [
+        {
+            "form": "gidday",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "not": [
+        {
+            "form": "not!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "hello": [
+        {
+            "form": "hullo",
+            "tags": [
+                "alternative",
+                "UK"
+            ]
+        }
+    ],
+    "gracias": [
+        {
+            "form": "grassy ass",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thank you": [
+        {
+            "form": "sank you",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thank you very much": [
+        {
+            "form": "thankyouverymuch",
+            "tags": [
+                "alternative",
+                "humorous"
+            ]
+        }
+    ],
+    "heard": [
+        {
+            "form": "thankyouverymuch",
+            "tags": [
+                "alternative",
+                "humorous"
+            ]
+        }
+    ],
+    "hey": [
+        {
+            "form": "heigh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh boy": [
+        {
+            "form": "heigh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "uh-oh": [
+        {
+            "form": "ruh-roh",
+            "tags": [
+                "alternative",
+                "humorous"
+            ]
+        }
+    ],
+    "ta": [
+        {
+            "form": "taa",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "huh": [
+        {
+            "form": "hunh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ahem": [
+        {
+            "form": "ehem",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "achoo": [
+        {
+            "form": "atchee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bless you": [
+        {
+            "form": "bless you !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "meow": [
+        {
+            "form": "miaou",
+            "tags": [
+                "alternative",
+                "UK"
+            ]
+        }
+    ],
+    "it's about time": [
+        {
+            "form": "it's about time !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "lo": [
+        {
+            "form": "'llo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "righto": [
+        {
+            "form": "right-o",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whee": [
+        {
+            "form": "wee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yay": [
+        {
+            "form": "yea",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wakey wakey": [
+        {
+            "form": "waky waky",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "heck": [
+        {
+            "form": "hecc",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "strewth": [
+        {
+            "form": "\u2019struth",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "crikey": [
+        {
+            "form": "\u2019struth",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "w00t": [
+        {
+            "form": "woot",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "good morning": [
+        {
+            "form": "woot",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gorblimey": [
+        {
+            "form": "gorblimy",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "goldarnit": [
+        {
+            "form": "goldarnit!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "goshdarnit": [
+        {
+            "form": "goshdarnit!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "aw": [
+        {
+            "form": "awh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "eh": [
+        {
+            "form": "ehhh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "aiya": [
+        {
+            "form": "aya",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "blimey": [
+        {
+            "form": "blimy",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wassup": [
+        {
+            "form": "whuddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "good evening": [
+        {
+            "form": "whuddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh my heck": [
+        {
+            "form": "oh my heck !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "mmm": [
+        {
+            "form": "mnh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "muahahaha": [
+        {
+            "form": "mwahahaha",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hooray": [
+        {
+            "form": "hooroo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yessir": [
+        {
+            "form": "yessirree",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "och": [
+        {
+            "form": "awk",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "objection": [
+        {
+            "form": "objection!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "wagwan": [
+        {
+            "form": "wag1",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ey up": [
+        {
+            "form": "hey up",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ya": [
+        {
+            "form": "yah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "golly": [
+        {
+            "form": "gollies",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gardyloo": [
+        {
+            "form": "gardy loo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "cock-a-doodle-do": [
+        {
+            "form": "cock-a-doodle-do!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "fiddlesticks": [
+        {
+            "form": "cock-a-doodle-do!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "fufufu": [
+        {
+            "form": "fufu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "capisce": [
+        {
+            "form": "kabish",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yikes": [
+        {
+            "form": "yipes",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gg": [
+        {
+            "form": "GG",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gesundheit": [
+        {
+            "form": "Gesundheit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whisht": [
+        {
+            "form": "whist",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "blech": [
+        {
+            "form": "bleck",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bejesus": [
+        {
+            "form": "bejeezus",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "woe is me": [
+        {
+            "form": "woe is I",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "tallyho": [
+        {
+            "form": "tally-ho",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "geez": [
+        {
+            "form": "jeeze",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kablooie": [
+        {
+            "form": "kerplooie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "dayum": [
+        {
+            "form": "dayumn",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yeah, right": [
+        {
+            "form": "yeah right",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "break a leg": [
+        {
+            "form": "break a leg !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "for crying out loud": [
+        {
+            "form": "for cryin' out loud",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "over and out": [
+        {
+            "form": "o'er 'n' out",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "goo goo ga ga": [
+        {
+            "form": "googoogaga",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "m'kay": [
+        {
+            "form": "mk",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "chiffchaff": [
+        {
+            "form": "chiff-chaff",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "goody": [
+        {
+            "form": "goodie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whoops-a-daisy": [
+        {
+            "form": "oopsy-daisy",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nudge nudge wink wink": [
+        {
+            "form": "wink wink nudge nudge",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "criminy": [
+        {
+            "form": "criminny",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "your mom": [
+        {
+            "form": "ur mom",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "facts": [
+        {
+            "form": "fax",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hands off": [
+        {
+            "form": "hands-off",
+            "tags": [
+                "alternative",
+                "adjective"
+            ]
+        }
+    ],
+    "night night": [
+        {
+            "form": "nini",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "don't go there": [
+        {
+            "form": "don't go there !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "tara": [
+        {
+            "form": "turrah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "pooh": [
+        {
+            "form": "pugh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fucking A": [
+        {
+            "form": "fuck an A",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "see ya": [
+        {
+            "form": "seeya",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "omigosh": [
+        {
+            "form": "omigosh!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "atishoo": [
+        {
+            "form": "atishoo!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "inshallah": [
+        {
+            "form": "InsyaAllah",
+            "tags": [
+                "alternative",
+                "Malaysia"
+            ]
+        }
+    ],
+    "uh-uh": [
+        {
+            "form": "nuh-uh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "attaboy": [
+        {
+            "form": "thattaboy",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "horsefeathers": [
+        {
+            "form": "horsefeathers!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "psst": [
+        {
+            "form": "pssst",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "rah": [
+        {
+            "form": "raah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "baruch Hashem": [
+        {
+            "form": "baruch HaShem",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "vroom": [
+        {
+            "form": "brrrm",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sayonara": [
+        {
+            "form": "say\u014dnara",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh God": [
+        {
+            "form": "oh, God",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "mwah": [
+        {
+            "form": "mwuah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh well": [
+        {
+            "form": "mwuah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "no way": [
+        {
+            "form": "no ways",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "4tw": [
+        {
+            "form": "FTW",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "my God": [
+        {
+            "form": "my God !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "oh my gosh": [
+        {
+            "form": "omigosh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yeehaw": [
+        {
+            "form": "yee-haw",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "attagirl": [
+        {
+            "form": "atta girl",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hell no": [
+        {
+            "form": "hell's no",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh yeah": [
+        {
+            "form": "oh, yeah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "chinchin": [
+        {
+            "form": "chinchin!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "holy shit": [
+        {
+            "form": "holy shit !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "hands up": [
+        {
+            "form": "hands up !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "ta ta": [
+        {
+            "form": "tah-tah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ta ta for now": [
+        {
+            "form": "tata for now",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wot": [
+        {
+            "form": "wote",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "you bet": [
+        {
+            "form": "you betcha",
+            "tags": [
+                "alternative",
+                "colloquial"
+            ]
+        }
+    ],
+    "kiss my ass": [
+        {
+            "form": "kiss my arse",
+            "tags": [
+                "alternative",
+                "Commonwealth",
+                "Ireland",
+                "UK"
+            ]
+        }
+    ],
+    "a'right": [
+        {
+            "form": "a'right !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "wha": [
+        {
+            "form": "wuh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "herro": [
+        {
+            "form": "harro",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "heita": [
+        {
+            "form": "huit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bye-bye": [
+        {
+            "form": "buh-bye",
+            "tags": [
+                "alternative",
+                "pronunciation-spelling"
+            ]
+        }
+    ],
+    "you know": [
+        {
+            "form": "yunno",
+            "tags": [
+                "alternative",
+                "pronunciation-spelling",
+                "slang"
+            ]
+        }
+    ],
+    "howay": [
+        {
+            "form": "ha'way",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wye aye": [
+        {
+            "form": "why aye",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "we aye": [
+        {
+            "form": "wye aye",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "pretty please": [
+        {
+            "form": "wye aye",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "no duh": [
+        {
+            "form": "no durr",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "xiexie": [
+        {
+            "form": "hsie-hsie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nee way": [
+        {
+            "form": "nee way !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "yirra": [
+        {
+            "form": "jirre",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wirra": [
+        {
+            "form": "whirra",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "get stuffed": [
+        {
+            "form": "get stuffed !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "frig it": [
+        {
+            "form": "frig it !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "rhubarb rhubarb": [
+        {
+            "form": "rhubarb rhubarb rhubarb",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "'kay": [
+        {
+            "form": "K",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "shana tova": [
+        {
+            "form": "shana tovah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "for fuck's sake": [
+        {
+            "form": "fuck's sake",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "my goodness": [
+        {
+            "form": "oh, my goodness",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kthxbye": [
+        {
+            "form": "kthxbai",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fuckaduck": [
+        {
+            "form": "fuck a duck",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "booyah": [
+        {
+            "form": "booyakasha",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "dang it": [
+        {
+            "form": "dangit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "pfft": [
+        {
+            "form": "pft",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "no shit, Sherlock": [
+        {
+            "form": "NSS",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "egads": [
+        {
+            "form": "egads!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "bwahaha": [
+        {
+            "form": "hyphenated",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "that does it": [
+        {
+            "form": "that did it",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "your mother": [
+        {
+            "form": "your mother !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "voetsek": [
+        {
+            "form": "footsack",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "muss-be": [
+        {
+            "form": "mhuzbee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fuck it": [
+        {
+            "form": "fuck it !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "sos": [
+        {
+            "form": "SoS",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "cor blimey": [
+        {
+            "form": "corblimey",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "newsflash": [
+        {
+            "form": "news flash",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "screw you": [
+        {
+            "form": "screw-you",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wah lau": [
+        {
+            "form": "walau eh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "presto chango": [
+        {
+            "form": "presto change-o",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wowzer": [
+        {
+            "form": "wowser",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "humph": [
+        {
+            "form": "humf",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "full speed ahead": [
+        {
+            "form": "full steam ahead",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whiskey tango foxtrot": [
+        {
+            "form": "whisky tango foxtrot",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "welp": [
+        {
+            "form": "whelp",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yeppers": [
+        {
+            "form": "yuppers",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatevs": [
+        {
+            "form": "whatevz",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "god dammit": [
+        {
+            "form": "God dammit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "heaven forbid": [
+        {
+            "form": "Heaven forbid",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh my": [
+        {
+            "form": "Heaven forbid",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "tick-tock": [
+        {
+            "form": "ticktock",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bug off": [
+        {
+            "form": "bug off !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "knock-knock": [
+        {
+            "form": "knock knock",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatsay": [
+        {
+            "form": "what say",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "surprise surprise": [
+        {
+            "form": "surprise surprise !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "net-net": [
+        {
+            "form": "net net",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "alrighty": [
+        {
+            "form": "alrightie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what up": [
+        {
+            "form": "waddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "'zackly": [
+        {
+            "form": "'zactly",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "zowie": [
+        {
+            "form": "kazowie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bada bing bada boom": [
+        {
+            "form": "ba da bing ba da boom",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "rehi": [
+        {
+            "form": "ReHi",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "front and center": [
+        {
+            "form": "front and centre",
+            "tags": [
+                "alternative",
+                "Commonwealth"
+            ]
+        }
+    ],
+    "fuckity": [
+        {
+            "form": "fuckity-fuck",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yah boo": [
+        {
+            "form": "ya-boo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yech": [
+        {
+            "form": "yeuch",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hooroo": [
+        {
+            "form": "ooroo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oorah": [
+        {
+            "form": "oohrah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bish bash bosh": [
+        {
+            "form": "bish-bash-bosh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oontz": [
+        {
+            "form": "untz",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gee willikers": [
+        {
+            "form": "whillikers",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "geez Louise": [
+        {
+            "form": "jeez Louise",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kapow": [
+        {
+            "form": "kapow!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "foggetaboutit": [
+        {
+            "form": "fuhgetaboutit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fuhgeddaboudit": [
+        {
+            "form": "fuhgetaboutit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "good on someone": [
+        {
+            "form": "onya",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sankyu": [
+        {
+            "form": "sankyuu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "eat my dust": [
+        {
+            "form": "eat my dust !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "oopsy": [
+        {
+            "form": "oopsie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "n.b.": [
+        {
+            "form": "NB",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "brrm": [
+        {
+            "form": "vroom",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bzzt": [
+        {
+            "form": "bzzzt",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh my goodness": [
+        {
+            "form": "oh, my goodness",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "snerk": [
+        {
+            "form": "snrk",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "blimey O'Riley": [
+        {
+            "form": "blimey O'Reilly",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "pht": [
+        {
+            "form": "phpht",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "holy kamoley": [
+        {
+            "form": "holy kamoly",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fnar": [
+        {
+            "form": "fnarr",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fainites": [
+        {
+            "form": "faynights",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "joj": [
+        {
+            "form": "JoJ",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "for mercy's sake": [
+        {
+            "form": "for mercy's sake !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "yessiree": [
+        {
+            "form": "yessirree",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whoopsy": [
+        {
+            "form": "whoopsie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yeah, no": [
+        {
+            "form": "yeah no",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wayment": [
+        {
+            "form": "waiment",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "diddums": [
+        {
+            "form": "poor diddums",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nee nor": [
+        {
+            "form": "nee-naw",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oo-er": [
+        {
+            "form": "ooer",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ooer": [
+        {
+            "form": "oo-er",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hey up": [
+        {
+            "form": "ey up",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fuck yeah": [
+        {
+            "form": "fuckyeah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "glhf": [
+        {
+            "form": "GL HF",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whaddayathink": [
+        {
+            "form": "whatchathink",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "pish posh": [
+        {
+            "form": "pish and tosh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "asdfghjkl": [
+        {
+            "form": "asdfghjkl;'",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "geg": [
+        {
+            "form": "gay",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ching chong": [
+        {
+            "form": "ching-chong",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yippee ki-yay": [
+        {
+            "form": "yippy-kai-yay",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "goody gumdrops": [
+        {
+            "form": "goody goody gumdrops",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fair dos": [
+        {
+            "form": "fair doos",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "saj": [
+        {
+            "form": "s\u00e1j",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "holy crickets": [
+        {
+            "form": "holy cricket",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "blarg": [
+        {
+            "form": "blerg",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nanu-nanu": [
+        {
+            "form": "na-nu na-nu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "puh-lease": [
+        {
+            "form": "puh-leez",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ooh-ah-ah": [
+        {
+            "form": "ooh ah ah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "send her down Hughie": [
+        {
+            "form": "send it down Hughie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "huh-uh": [
+        {
+            "form": "uh-uh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "cool story bro": [
+        {
+            "form": "cool story, bro",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "grassy ass": [
+        {
+            "form": "grassy arse",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "look at you": [
+        {
+            "form": "lookatchu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "is it": [
+        {
+            "form": "izzit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "om nom nom": [
+        {
+            "form": "nom nom nom",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh em gee": [
+        {
+            "form": "Oh Em Gee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "stuff it": [
+        {
+            "form": "stuff it !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "butter my butt and call me a biscuit": [
+        {
+            "form": "butter my butt and call it a biscuit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thank god": [
+        {
+            "form": "thank god !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "godsdamn": [
+        {
+            "form": "gods damn",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "calm your tits": [
+        {
+            "form": "calm your titties",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "big woop": [
+        {
+            "form": "no big woop",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fairy nuff": [
+        {
+            "form": "fairy 'nuff",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thankies": [
+        {
+            "form": "thanksies",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "aooga": [
+        {
+            "form": "awoogah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "waa": [
+        {
+            "form": "wah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ych a fi": [
+        {
+            "form": "ach-y-fi",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "peace be upon him": [
+        {
+            "form": "PBUH",
+            "tags": [
+                "alternative",
+                "abbreviation"
+            ]
+        }
+    ],
+    "bibbidi-bobbidi-boo": [
+        {
+            "form": "bippity boppity boo",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "true that": [
+        {
+            "form": "tru dat",
+            "tags": [
+                "alternative",
+                "pronunciation-spelling"
+            ]
+        }
+    ],
+    "rut roh": [
+        {
+            "form": "rut-roh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "arrey": [
+        {
+            "form": "arre",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sod this for a game of soldiers": [
+        {
+            "form": "sod that for a game of soldiers",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yah boo sucks": [
+        {
+            "form": "ya boo sucks",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oo arr": [
+        {
+            "form": "ooh arrh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "grassy arse": [
+        {
+            "form": "grassy ass",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "shabash": [
+        {
+            "form": "shavash",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "heck no": [
+        {
+            "form": "hecks no",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sheeit": [
+        {
+            "form": "shiet",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "land sakes": [
+        {
+            "form": "land's sakes alive",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bup-bup-bup": [
+        {
+            "form": "up bup bup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "shlick": [
+        {
+            "form": "schlck",
+            "tags": [
+                "alternative",
+                "interjection"
+            ]
+        }
+    ],
+    "on yer bike": [
+        {
+            "form": "on yer bike !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "of course my horse": [
+        {
+            "form": "of course, my horse",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "great Caesar's ghost": [
+        {
+            "form": "great Caesar's ghost !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "wudup": [
+        {
+            "form": "wuddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bonjour/hi": [
+        {
+            "form": "bonjour-hi",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nabocklish": [
+        {
+            "form": "nabocklesh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh my Zeus": [
+        {
+            "form": "oh my Zeus !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "cock on": [
+        {
+            "form": "cock-on",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "d'aw": [
+        {
+            "form": "d'aww",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yallah": [
+        {
+            "form": "yalla",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "smell you later": [
+        {
+            "form": "smell ya later",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "imphm": [
+        {
+            "form": "imph'm",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wowie": [
+        {
+            "form": "wowee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "for the love of fuck": [
+        {
+            "form": "for the love of fuck !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "boohoohoo": [
+        {
+            "form": "boohoohoo!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "great job": [
+        {
+            "form": "great job !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "lechayim": [
+        {
+            "form": "l'chayim",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "diggety": [
+        {
+            "form": "ziggety",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ain't nothing but a thang": [
+        {
+            "form": "ain't nuthin' but a thang",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gnomesayin": [
+        {
+            "form": "gnome sayin",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "allez oop": [
+        {
+            "form": "allez-oop",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "l.p.h.": [
+        {
+            "form": "L.P.H.",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hasta pasta": [
+        {
+            "form": "hasta la pasta",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "aiyo": [
+        {
+            "form": "aiyoh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "diu lei": [
+        {
+            "form": "diu lay",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yiish": [
+        {
+            "form": "yiish!",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "konnichiwa": [
+        {
+            "form": "konnichi wa",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "way enough": [
+        {
+            "form": "way 'nuff",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "spectacles, testicles, wallet and watch": [
+        {
+            "form": "spectacles, testicles, wallet, watch",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wallahi": [
+        {
+            "form": "wlhi",
+            "tags": [
+                "alternative",
+                "Internet"
+            ]
+        }
+    ],
+    "game ball": [
+        {
+            "form": "gameball",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "raasclaat": [
+        {
+            "form": "rasscloth",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "lub-dub": [
+        {
+            "form": "lub-dup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "don't that beat all": [
+        {
+            "form": "if that don't beat all",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ahlie": [
+        {
+            "form": "alie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "top kek": [
+        {
+            "form": "toppest kek",
+            "tags": [
+                "alternative",
+                "emphatic"
+            ]
+        }
+    ],
+    "fffffffuuuuuuuuuuuu": [
+        {
+            "form": "f7u12",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "well spotted": [
+        {
+            "form": "well spotted !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "tio bo": [
+        {
+            "form": "tio boh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "laugh die me": [
+        {
+            "form": "laugh die",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hurr durr": [
+        {
+            "form": "da hurr",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "holy shamoley": [
+        {
+            "form": "holy shmoly",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "bofa": [
+        {
+            "form": "bopha",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ooh-wee": [
+        {
+            "form": "oowee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "you shouldn't talk": [
+        {
+            "form": "you shouldn't talk !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "you should talk": [
+        {
+            "form": "you should talk !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "aah, Bisto": [
+        {
+            "form": "ahh, Bisto",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "haiya": [
+        {
+            "form": "haiyaa",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "chookas": [
+        {
+            "form": "chookers",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ten-shun": [
+        {
+            "form": "'ten-shun",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "at-ten-shun": [
+        {
+            "form": "a-ten-shun",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "my lands": [
+        {
+            "form": "my land",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "why in the world": [
+        {
+            "form": "why in the world ...",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "shanti": [
+        {
+            "form": "shantih",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sir, this is an Arby's": [
+        {
+            "form": "sir, this is a Wendy's",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "o-rite": [
+        {
+            "form": "orite",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gedup": [
+        {
+            "form": "geddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "khabardaar": [
+        {
+            "form": "geddup",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "tits out for the lads": [
+        {
+            "form": "get your tits out for the lads",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "attakid": [
+        {
+            "form": "thattakid",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yehey": [
+        {
+            "form": "yey",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sadge": [
+        {
+            "form": "saj",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oopsy-doopsy": [
+        {
+            "form": "oopsie, doopsie",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fuckity fuck": [
+        {
+            "form": "fuckity-fuck",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "and then everyone on the bus clapped": [
+        {
+            "form": "everyone clapped",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "cyka blyat": [
+        {
+            "form": "suka blyat",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kasme": [
+        {
+            "form": "qasmeh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ggs": [
+        {
+            "form": "GGs",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "no because": [
+        {
+            "form": "no, because",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "shiet": [
+        {
+            "form": "sheit",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "mercy sake's alive": [
+        {
+            "form": "mercy's sakes alive",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "'kin 'ell": [
+        {
+            "form": "kin 'ell",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yikes on bikes": [
+        {
+            "form": "yikes on trikes",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "no, yeah": [
+        {
+            "form": "no yeah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "get in the sea": [
+        {
+            "form": "get in the sea !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "zamn": [
+        {
+            "form": "zam",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "boomshakalaka": [
+        {
+            "form": "boom shakalaka",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sheit": [
+        {
+            "form": "shiet",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oo oo aa aa": [
+        {
+            "form": "ooh ooh aah aah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ecks dee": [
+        {
+            "form": "eks dee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "lolmao": [
+        {
+            "form": "LOLMAO",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yadadamean": [
+        {
+            "form": "yadamean",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "eat a burger": [
+        {
+            "form": "eat a burger !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "r/woooosh": [
+        {
+            "form": "r/whoosh",
+            "tags": [
+                "alternative",
+                "misspelling"
+            ]
+        }
+    ],
+    "kan ni na": [
+        {
+            "form": "kan ni nia",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kan ni na bu": [
+        {
+            "form": "kan ni na beh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hey Joe": [
+        {
+            "form": "hey, Joe",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kukuku": [
+        {
+            "form": "kuku",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "knowwhaddamean": [
+        {
+            "form": "know watta mean",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hawk tuah": [
+        {
+            "form": "hawk tua",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "boowomp": [
+        {
+            "form": "boo-womp",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "(You)": [
+        {
+            "form": "You",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "gegagedigedagedago": [
+        {
+            "form": "gedagedigedagedaoh",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fax, no printer": [
+        {
+            "form": "\ud83d\udce0 no \ud83d\udda8",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "chaknow": [
+        {
+            "form": "chanow",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "oh my fucking God": [
+        {
+            "form": "OMFG",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "orh hor": [
+        {
+            "form": "or hor",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sial ah": [
+        {
+            "form": "sial lah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nyah nyah nyah nyah nyah nyah": [
+        {
+            "form": "nyah-nyah nyah-nyah nyaah-nyah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sharp-sharp": [
+        {
+            "form": "sharp",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "holy buckets": [
+        {
+            "form": "holy bucket",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "kan ni na bu chao chee bye": [
+        {
+            "form": "kan ni na bu chao chee bai",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "holy crud": [
+        {
+            "form": "holy crud !",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "good PM": [
+        {
+            "form": "good pm",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "we been knew": [
+        {
+            "form": "wbk",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "true say": [
+        {
+            "form": "tru say",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "lo aleinu": [
+        {
+            "form": "loy oleynu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "y\u2019reyt?": [
+        {
+            "form": "y\u2019reyt",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "mucho thanko": [
+        {
+            "form": "mucho thankso",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ]
+}

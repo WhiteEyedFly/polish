@@ -1,0 +1,1490 @@
+{
+    "aha": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "ah",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8a.xa]",
+        "rhyme_scheme": "-a",
+        "forms": [
+            {
+                "form": "acha",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "sayonara": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "sayonara",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "farewell",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/sa.j\u0254\u02c8na.ra/",
+        "rhyme_scheme": "-ara",
+        "forms": [
+            {
+                "form": "sajonara",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "no": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "yeah",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "yep",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8n\u0254]",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "nu",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "sajonara": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "sayonara",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "farewell",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/sa.j\u0254\u02c8na.ra/",
+        "rhyme_scheme": "-ara",
+        "forms": [
+            {
+                "form": "sayonara",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "alleluja": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "Christianity",
+                "tags": [
+                    "often",
+                    "reduplication"
+                ]
+            },
+            {
+                "translation": "hallelujah",
+                "tags": [
+                    "often",
+                    "reduplication"
+                ]
+            }
+        ],
+        "ipa": "/al.l\u025b\u02c8lu.ja/",
+        "rhyme_scheme": "-uja",
+        "forms": [
+            {
+                "form": "hallelujah",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "dzieci": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "duck",
+                "tags": [
+                    "often",
+                    "repeated"
+                ]
+            },
+            {
+                "translation": "duckling",
+                "tags": [
+                    "often",
+                    "repeated"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8d\u0361\u0291\u025b.t\u0361\u0255i]",
+        "rhyme_scheme": "-\u025bt\u0361\u0255i",
+        "forms": [
+            {
+                "form": "dzici",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "we\u017a": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "c'mon",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "come on",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8v\u025b\u0255/",
+        "rhyme_scheme": "-\u025b\u0255",
+        "forms": [
+            {
+                "form": "we\u017a\u017ce",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "pierdolisz": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "no shit",
+                "tags": [
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "no kidding",
+                "tags": [
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "fuck",
+                "tags": [
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/pj\u025br\u02c8d\u0254.li\u0282/",
+        "rhyme_scheme": "-\u0254li\u0282",
+        "forms": [
+            {
+                "form": "pierdolisz!",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "ja pierdol\u0119": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "holy shit",
+                "tags": [
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "for fuck's sake",
+                "tags": [
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ja pj\u025br\u02c8d\u0254.l\u025bw\u0303/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "ja ci\u0119 kr\u0119c\u0119",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "przejebane": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "fucked",
+                "tags": [
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/p\u0282\u025b.j\u025b\u02c8ba.n\u025b/",
+        "rhyme_scheme": "-an\u025b",
+        "forms": [
+            {
+                "form": "przejebane!",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "sio": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "dismissal",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "shoo",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0255\u0254/",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "si\u00f3",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "szerokiej drogi": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "safe travels",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u0282\u025b\u02c8r\u0254.kj\u025bj \u02c8dr\u0254.\u0261i/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "szerokiej drogi !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "w mord\u0119 je\u017ca": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "dammit",
+                "tags": [
+                    "humorous",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "whoa",
+                "tags": [
+                    "humorous",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8v\u203fm\u0254r.d\u025bw\u0303 \u02c8j\u025b.\u0290a/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "w mord\u0119 je\u017ca !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "okpa": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "Internet",
+                "tags": [
+                    "Internet"
+                ]
+            },
+            {
+                "translation": "text messaging",
+                "tags": [
+                    "Internet"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0254k.pa/",
+        "rhyme_scheme": "-\u0254kpa",
+        "forms": [
+            {
+                "form": "OKPA",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "w dup\u0119 je\u017ca": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "fuck",
+                "tags": [
+                    "humorous",
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "whoa",
+                "tags": [
+                    "humorous",
+                    "idiomatic",
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8v\u203fdu.p\u025bw\u0303 \u02c8j\u025b.\u0290a/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "w dup\u0119 je\u017ca !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "w pizd\u0119 je\u017ca": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "fuck",
+                "tags": [
+                    "humorous",
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "whoa",
+                "tags": [
+                    "humorous",
+                    "idiomatic",
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8f\u203fpiz.d\u025bw\u0303 \u02c8j\u025b.\u0290a/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "w pizd\u0119 je\u017ca !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "ani mru-mru": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "mum's the word",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "not a word",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "not a peep",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "keep it under your hat",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8a.\u0272i \u02c8mru.mru/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "mrumru",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "do licha": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "crud",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "damn",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "darn it",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "rats",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/d\u0254\u203f\u02c8li.xa/",
+        "rhyme_scheme": "-ixa",
+        "forms": [
+            {
+                "form": "u licha",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "spokojna g\u0142owa": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "rest assured",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/sp\u0254\u02c8k\u0254j.na \u02c8\u0261w\u0254.va/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "spokojna g\u0142owy",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "ryzyk-fizyk": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "risk it for the biscuit",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8r\u0258.z\u0258k \u02c8fi.z\u0258k/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "ryzyk fizyk",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "masz babo placek": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "my word",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ma\u0282 \u02c8ba.b\u0254 \u02c8pla.t\u0361s\u025bk/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "masz diable kaftan",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "jak Boga kocham": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "as I live and breathe",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8jak \u02c8b\u0254.\u0261a \u02c8k\u0254.xam/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "jak babci\u0119 kocham",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "i b\u0105d\u017a tu m\u0105dry": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "go figure",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/i\u203f\u02c8b\u0254\u0272t\u0361\u0255 \u02c8tu \u02c8m\u0254n.dr\u0258/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "i b\u0105d\u017a tu teraz m\u0105dry",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "dzi\u0119ki Bogu": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "thank God",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8d\u0361\u0291\u025b\u014b.ki \u02c8b\u0254.\u0261u/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "Bogu dzi\u0119ka",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ani be, ani me": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "not",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "a",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "word",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8a.\u0272i \u02c8b\u025b |\u02c8a.\u0272i \u02c8m\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "ani be, ani me, ani kukuryku",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "m\u00f3j Bo\u017ce": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "oh my God",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8muj \u02c8b\u0254.\u0290\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "o Bo\u017ce",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "krzy\u017cyk na drog\u0119": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "good riddance",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "good riddance to bad rubbish",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8k\u0282\u0258.\u0290\u0258k na\u203f\u02c8dr\u0254.\u0261\u025bw\u0303/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "krzy\u017c na drog\u0119",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "pal licho": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "never mind",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8pal \u02c8li.x\u0254/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "pal sze\u015b\u0107",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "darzb\u00f3r": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "hunting",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8da\u0290.bur/",
+        "rhyme_scheme": "-a\u0290bur",
+        "forms": [
+            {
+                "form": "darz b\u00f3r",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "wszystkie r\u0119ce na pok\u0142ad": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "all hands on deck",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8f\u0282\u0258s.tkj\u025b \u02c8r\u025bn.t\u0361s\u025b na\u203f\u02c8p\u0254.kwat/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "wszystkie r\u0119ce na pok\u0142ad !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "szast-prast": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "hup two",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "c'mon",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "quickly",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0282ast \u02c8prast/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "szast-prast!",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "trzask-prask": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "hup two",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "c'mon",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "quickly",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0282ask \u02c8prask/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "trzask prask",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "tfu": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "ptooey",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "scratch that",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8tfu/",
+        "rhyme_scheme": "-u",
+        "forms": [
+            {
+                "form": "tfu!",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "\u015bwi\u0119ta prawda": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "gospel truth",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0255fj\u025bn.ta \u02c8prav.da/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "\u015bwi\u0119ta racja",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "do stu piorun\u00f3w": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "damn",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "darn it",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "rats",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "crud",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/d\u0254\u203f\u02c8stu pj\u0254\u02c8ru.nuf/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "do pioruna",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "szeroko\u015bci": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "farewell",
+                "tags": [
+                    "idiomatic",
+                    "slang"
+                ]
+            },
+            {
+                "translation": "safe travels",
+                "tags": [
+                    "idiomatic",
+                    "slang"
+                ]
+            }
+        ],
+        "ipa": "/\u0282\u025b.r\u0254\u02c8k\u0254\u0255.t\u0361\u0255i/",
+        "rhyme_scheme": "-\u0254\u0255t\u0361\u0255i",
+        "forms": [
+            {
+                "form": "szeroko\u015bci!",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "nigdy w \u017cyciu": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "not on your life",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272i\u0261.d\u0258 \u02c8v\u0290\u0258.t\u0361\u0255u/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "w \u017cyciu",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "witamy na pok\u0142adzie": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "welcome on board",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/vi\u02c8ta.m\u0258 na\u203fp\u0254\u02c8kwa.d\u0361\u0291\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "witam na pok\u0142adzie",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "daj Bo\u017ce": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "God willing",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "please God",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8daj \u02c8b\u0254.\u0290\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "da\u0142by B\u00f3g",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "jak \u017cyj\u0119": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "as I live and breathe",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8jak \u02c8\u0290\u0258.j\u025bw\u0303/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "jak d\u0142ugo \u017cyj\u0119",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "wypluj te s\u0142owa": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "take that back",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8v\u0258.pluj \u02c8t\u025b \u02c8sw\u0254.va/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "wypluj to s\u0142owo",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "zabij mnie": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "beats me",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8za.bij \u02c8m\u0272\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "\u017ceby\u015b mnie zabi\u0142",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ja ci poka\u017c\u0119": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "I'll show you",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ja t\u0361\u0255i\u203fp\u0254\u02c8ka.\u0290\u025bw\u0303/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "ja wam poka\u017c\u0119",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ja ci dam": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "just you wait",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ja t\u0361\u0255i\u203f\u02c8dam/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "ja wam dam",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "witam w klubie": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "welcome to the club",
+                "tags": [
+                    "colloquial",
+                    "humorous",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "join the club",
+                "tags": [
+                    "colloquial",
+                    "humorous",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8vi.tam \u02c8fklu.bj\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "witamy w klubie",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "kl\u0119kajcie narody": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "hats off",
+                "tags": [
+                    "colloquial",
+                    "humorous",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/kl\u025b\u014b\u02c8kaj.t\u0361\u0255\u025b na\u02c8r\u0254.d\u0258/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "kl\u0119kajcie narody !",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "rany boskie": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "Jesus Christ",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "for God's sake",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ra.n\u0258 \u02c8b\u0254s.kj\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "rany koguta",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "niech b\u0119dzie pochwalony Jezus Chrystus": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "Roman Catholicism",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "praised be Jesus Christ",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272\u025bx \u02c8b\u025b\u0272.d\u0361\u0291\u025b p\u0254.xfa\u02c8l\u0254.n\u0258 \u02c8j\u025b.zus \u02c8xr\u0258s.tus/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "pochwalony",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "do jasnej anielki": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "minced oath",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "dammit",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "shit",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/d\u0254\u203f\u02c8jas.n\u025bj a\u02c8\u0272\u025bl.ki/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "do jasnej Anielki",
+                "tags": [
+                    "alternative",
+                    "nonstandard"
+                ]
+            }
+        ]
+    },
+    "niech chuj strzeli": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "goddamn",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "shit",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272\u025bx \u02c8xuj \u02c8st\u0282\u025b.li/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "chuj by to strzeli\u0142",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "niech szlag trafi": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "goddamn",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "shit",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272\u025bx \u02c8\u0282lak \u02c8tra.fi/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "szlag by to trafi\u0142",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "\u015bwi\u0119ci pa\u0144scy": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "good heavens",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0255fj\u025b\u0272.t\u0361\u0255i \u02c8pa\u0272.st\u0361s\u0258/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "\u015awi\u0119ci Pa\u0144scy",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "na wieki wiek\u00f3w, amen": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "Roman Catholicism",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "for ever and ever, amen",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/na\u203f\u02c8vj\u025b.ki \u02c8vj\u025b.kuf |\u02c8a.m\u025bn/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "na wieki wiek\u00f3w",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "a ksyk": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "pig",
+                "tags": [
+                    "often",
+                    "repeated"
+                ]
+            }
+        ],
+        "ipa": "[a\u203f\u02c8ks\u0258k]",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "a ksy",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "bij zabij": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "be damned",
+                "tags": [
+                    "idiomatic",
+                    "optative"
+                ]
+            },
+            {
+                "translation": "Wydawnictwo Naukowe PWN",
+                "tags": [
+                    "idiomatic",
+                    "optative"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8bij \u02c8za.bij/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "bij, zabij",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "naajak": {
+        "word_type": "intj",
+        "translations": [
+            {
+                "translation": "of course",
+                "tags": [
+                    "colloquial",
+                    "humorous"
+                ]
+            },
+            {
+                "translation": "darn right",
+                "tags": [
+                    "colloquial",
+                    "humorous"
+                ]
+            }
+        ],
+        "ipa": "/na\u02c8a.jak/",
+        "rhyme_scheme": "-ajak",
+        "forms": [
+            {
+                "form": "najak",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    }
+}

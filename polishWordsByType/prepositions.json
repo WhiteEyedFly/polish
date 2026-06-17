@@ -1,0 +1,201 @@
+{
+    "od": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "from",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "by",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "by",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "from",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8\u0254t]",
+        "rhyme_scheme": "-\u0254t",
+        "forms": [
+            {
+                "form": "ode",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "pod": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "under",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8p\u0254t/",
+        "rhyme_scheme": "-\u0254t",
+        "forms": [
+            {
+                "form": "pode",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ku": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "for",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "benefit",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ku/",
+        "rhyme_scheme": "-u",
+        "forms": [
+            {
+                "form": "pu",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "dla": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "for the sake of",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8dla]",
+        "rhyme_scheme": "-a",
+        "forms": [
+            {
+                "form": "dlu",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "niczym": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "as",
+                "tags": [
+                    "formal"
+                ]
+            },
+            {
+                "translation": "like",
+                "tags": [
+                    "formal"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272i.t\u0361\u0282\u0258m/",
+        "rhyme_scheme": "-it\u0361\u0282\u0258m",
+        "forms": [
+            {
+                "form": "niczem",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "pod wezwaniem": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "religion",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "dedicate",
+                "tags": [
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "of",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/p\u0254d\u203fv\u025b\u02c8zva.\u0272\u025bm/",
+        "rhyme_scheme": "-a\u0272\u025bm",
+        "forms": [
+            {
+                "form": "pod wezw.",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "pod batut\u0105": {
+        "word_type": "prep",
+        "translations": [
+            {
+                "translation": "conducted",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "led",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/p\u0254d\u203fba\u02c8tu.t\u0254w\u0303/",
+        "rhyme_scheme": "-ut\u0254w\u0303",
+        "forms": [
+            {
+                "form": "pod dyrekcj\u0105",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1086 @@
+{
+    "one": [
+        {
+            "form": "I",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "everybody": [
+        {
+            "form": "every body",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "it": [
+        {
+            "form": "'t",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yourself": [
+        {
+            "form": "Yourself",
+            "tags": [
+                "alternative",
+                "honorific"
+            ]
+        }
+    ],
+    "you": [
+        {
+            "form": "-ja",
+            "tags": [
+                "alternative",
+                "informal"
+            ]
+        }
+    ],
+    "his": [
+        {
+            "form": "His",
+            "tags": [
+                "alternative",
+                "honorific"
+            ]
+        }
+    ],
+    "all": [
+        {
+            "form": "a'",
+            "tags": [
+                "alternative",
+                "alternative"
+            ]
+        }
+    ],
+    "mine": [
+        {
+            "form": "mine",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "us": [
+        {
+            "form": "iz",
+            "tags": [
+                "alternative",
+                "Northumbria"
+            ]
+        }
+    ],
+    "we": [
+        {
+            "form": "ourself",
+            "tags": [
+                "reflexive",
+                "singular"
+            ]
+        }
+    ],
+    "he": [
+        {
+            "form": "his",
+            "tags": [
+                "possessive"
+            ]
+        }
+    ],
+    "she": [
+        {
+            "form": "shee",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "they": [
+        {
+            "form": "theye",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "them": [
+        {
+            "form": "dem",
+            "tags": [
+                "alternative",
+                "nonstandard"
+            ]
+        }
+    ],
+    "who": [
+        {
+            "form": "whose",
+            "tags": [
+                "possessive"
+            ]
+        }
+    ],
+    "whom": [
+        {
+            "form": "of who",
+            "tags": [
+                "objective",
+                "plural",
+                "singular"
+            ]
+        }
+    ],
+    "myself": [
+        {
+            "form": "meself",
+            "tags": [
+                "alternative",
+                "nonstandard"
+            ]
+        }
+    ],
+    "ourself": [
+        {
+            "form": "of we",
+            "tags": [
+                "reflexive",
+                "singular"
+            ]
+        }
+    ],
+    "ourselves": [
+        {
+            "form": "case of we",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "y'all": [
+        {
+            "form": "you all",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yourselves": [
+        {
+            "form": "yoselves",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "itself": [
+        {
+            "form": "themselves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "self": [
+        {
+            "form": "selves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "himself": [
+        {
+            "form": "Himself",
+            "tags": [
+                "alternative",
+                "honorific"
+            ]
+        }
+    ],
+    "herself": [
+        {
+            "form": "Herself",
+            "tags": [
+                "alternative",
+                "honorific"
+            ]
+        }
+    ],
+    "themselves": [
+        {
+            "form": "of they",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "ah": [
+        {
+            "form": "Ah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "themself": [
+        {
+            "form": "of they",
+            "tags": [
+                "reflexive",
+                "singular"
+            ]
+        }
+    ],
+    "hir": [
+        {
+            "form": "hirself",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "you guys": [
+        {
+            "form": "youze guys",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "you-uns": [
+        {
+            "form": "you'nes",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "one another": [
+        {
+            "form": "one another's",
+            "tags": [
+                "possessive"
+            ]
+        }
+    ],
+    "whoever": [
+        {
+            "form": "whoe'er",
+            "tags": [
+                "alternative",
+                "poetic"
+            ]
+        }
+    ],
+    "whomever": [
+        {
+            "form": "whomsoever",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whosoever": [
+        {
+            "form": "whosesoever",
+            "tags": [
+                "possessive"
+            ]
+        }
+    ],
+    "'un": [
+        {
+            "form": "in(s), 'in(s)",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatshisface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "sweet FA": [
+        {
+            "form": "sweet F A",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whomsoever": [
+        {
+            "form": "of whosoever",
+            "tags": [
+                "objective"
+            ]
+        }
+    ],
+    "'em": [
+        {
+            "form": "em",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "xe": [
+        {
+            "form": "xer",
+            "tags": [
+                "possessive"
+            ]
+        }
+    ],
+    "sb": [
+        {
+            "form": "sb.",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thor": [
+        {
+            "form": "thors",
+            "tags": [
+                "possessive",
+                "pronoun",
+                "without-noun"
+            ]
+        }
+    ],
+    "sth": [
+        {
+            "form": "smth",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hu": [
+        {
+            "form": "huself",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "s/he": [
+        {
+            "form": "he/she",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what's-his-name": [
+        {
+            "form": "whosisname",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hern": [
+        {
+            "form": "her'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "hoo": [
+        {
+            "form": "herself",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "yee": [
+        {
+            "form": "ye",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yuh": [
+        {
+            "form": "ya",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thysen": [
+        {
+            "form": "thee sen",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thee sen": [
+        {
+            "form": "thysen",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "every man Jack": [
+        {
+            "form": "every man jack",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "-cha": [
+        {
+            "form": "-chu",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yourn": [
+        {
+            "form": "your'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "ourn": [
+        {
+            "form": "our'n",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "your Honor": [
+        {
+            "form": "Your Honour",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "your grace": [
+        {
+            "form": "your graces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "summat": [
+        {
+            "form": "summot",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yersel": [
+        {
+            "form": "ye",
+            "tags": [
+                "reflexive-of"
+            ]
+        }
+    ],
+    "thors": [
+        {
+            "form": "thor",
+            "tags": [
+                "determiner",
+                "possessive"
+            ]
+        }
+    ],
+    "yens": [
+        {
+            "form": "yinz",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatshisname": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "you all": [
+        {
+            "form": "you-alls",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatsisname": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatsername": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "we-uns": [
+        {
+            "form": "we'ins",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "he/she": [
+        {
+            "form": "he or she",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nuthin'": [
+        {
+            "form": "nothin'",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "us selves": [
+        {
+            "form": "case of we",
+            "tags": [
+                "reflexive"
+            ]
+        }
+    ],
+    "him/herself": [
+        {
+            "form": "themselves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "he or she": [
+        {
+            "form": "(s)he",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatshername": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "everybody and their dog": [
+        {
+            "form": "everyone and their dog",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what's-his-face": [
+        {
+            "form": "whosisface",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "thats": [
+        {
+            "form": "that's",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "she/he": [
+        {
+            "form": "he/she",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "she or he": [
+        {
+            "form": "they",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "your man": [
+        {
+            "form": "yer man",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "the'e": [
+        {
+            "form": "they",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "limpeh": [
+        {
+            "form": "limpei",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "they-uns": [
+        {
+            "form": "theyuns",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yoursen": [
+        {
+            "form": "yersen",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "swh": [
+        {
+            "form": "swh.",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "xirself": [
+        {
+            "form": "themselves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "one another's": [
+        {
+            "form": "themselves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "weself": [
+        {
+            "form": "we'selves",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatstheirname": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "your girl": [
+        {
+            "form": "ya girl",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "everybody and his brother": [
+        {
+            "form": "everyone and their brother",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "your boy": [
+        {
+            "form": "ya boi",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sth.": [
+        {
+            "form": "smth",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "sb.": [
+        {
+            "form": "sb",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "smb": [
+        {
+            "form": "sb",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what's-her-name": [
+        {
+            "form": "whosername",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "yuo": [
+        {
+            "form": "yuorselves",
+            "tags": [
+                "plural",
+                "reflexive"
+            ]
+        }
+    ],
+    "urselves": [
+        {
+            "form": "of u",
+            "tags": [
+                "plural",
+                "reflexive"
+            ]
+        }
+    ],
+    "xerself": [
+        {
+            "form": "themselves",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatsherface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatstheirface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-her-face": [
+        {
+            "form": "whoserface",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what's-their-face": [
+        {
+            "form": "whatseface",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "whatsisface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatserface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whats'isface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'sisface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's'isface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'shisface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whats'erface": [
+        {
+            "form": "whatstheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'serface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's'erface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-'is-face": [
+        {
+            "form": "what's-their-faces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-'er-face": [
+        {
+            "form": "what's-their-faces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'sherface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'stheirface": [
+        {
+            "form": "what'stheirfaces",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whats'isname": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'sisname": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's'isname": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-'is-name": [
+        {
+            "form": "what's-their-names",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'shisname": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'shername": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-'er-name": [
+        {
+            "form": "what's-their-names",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's'ername": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what'sername": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whats'ername": [
+        {
+            "form": "whatstheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "what's-their-name": [
+        {
+            "form": "whatsename",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "what'stheirname": [
+        {
+            "form": "what'stheirnames",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatchamacallim": [
+        {
+            "form": "whatchamacallem",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatchamacall'im": [
+        {
+            "form": "whatchamacall'em",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatchamacall'er": [
+        {
+            "form": "whatchamacall'em",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "whatchamacaller": [
+        {
+            "form": "whatchamacallem",
+            "tags": [
+                "plural"
+            ]
+        }
+    ],
+    "each other's": [
+        {
+            "form": "whatchamacallem",
+            "tags": [
+                "plural"
+            ]
+        }
+    ]
+}

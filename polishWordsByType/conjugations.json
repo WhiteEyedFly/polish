@@ -1,0 +1,1151 @@
+{
+    "bo": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "also",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "even",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8b\u0254]",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "b\u00f4",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "poniewa\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "because",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "for",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/p\u0254\u02c8\u0272e.v\u0252\u0282/",
+        "rhyme_scheme": "-\u025bva\u0282",
+        "forms": [
+            {
+                "form": "poniewad\u017c",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "kiedy": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "when",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "if",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8kj\u025b.d\u0258]",
+        "rhyme_scheme": "-\u025bd\u0258",
+        "forms": [
+            {
+                "form": "kiedy",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "tylko": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "except",
+                "tags": [
+                    "contrastive"
+                ]
+            },
+            {
+                "translation": "only",
+                "tags": [
+                    "contrastive"
+                ]
+            },
+            {
+                "translation": "just",
+                "tags": [
+                    "contrastive"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0258l.k\u0254/",
+        "rhyme_scheme": "-\u0258lk\u0254",
+        "forms": [
+            {
+                "form": "tylo",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "a\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "only",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "scarcely",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "as soon as",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "when",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "as",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8a\u0282]",
+        "rhyme_scheme": "-a\u0282",
+        "forms": [
+            {
+                "form": "a\u017c",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "je\u017celi": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "because",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[j\u025b\u02c8\u0290\u025b.li]",
+        "rhyme_scheme": "-\u025bli",
+        "forms": [
+            {
+                "form": "je\u017celi",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "\u017ceby": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "for the sake of",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "just to",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "only to",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "to",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "or else",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0290\u025b.b\u0268/",
+        "rhyme_scheme": "-\u025bb\u0258",
+        "forms": [
+            {
+                "form": "\u017ceby",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "ni\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "not only",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "but",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "however",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8\u0272i\u0282]",
+        "rhyme_scheme": "-i\u0282",
+        "forms": [
+            {
+                "form": "ni\u017c",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "gdy": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "when",
+                "tags": [
+                    "relative"
+                ]
+            },
+            {
+                "translation": "as",
+                "tags": [
+                    "relative"
+                ]
+            },
+            {
+                "translation": "whereas",
+                "tags": [
+                    "contrastive",
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8\u0261d\u0258]",
+        "rhyme_scheme": "-\u0258",
+        "forms": [
+            {
+                "form": "hdy",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "lub": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "or",
+                "tags": [
+                    "repeated",
+                    "sometimes"
+                ]
+            },
+            {
+                "translation": "and/or",
+                "tags": [
+                    "repeated",
+                    "sometimes"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8lup]",
+        "rhyme_scheme": "-up",
+        "forms": [
+            {
+                "form": "lubo",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "chocia\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "although",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "nawet",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "gdyby",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "even if",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "although",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "ale",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "but",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "although",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "wprawdzie",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "admittedly",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "granted",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "even though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "albo",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "repeated"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8x\u0254.t\u0361\u0255\u0252\u0282/",
+        "rhyme_scheme": "-\u0254t\u0361\u0255a\u0282",
+        "forms": [
+            {
+                "form": "choca\u017c",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "chyba \u017ce": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "unless",
+                "tags": [
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8x\u0258.ba \u02c8\u0290\u025b/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "chyba \u017ceby",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "cho\u0107": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "if",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8x\u0254t\u0361\u0255]",
+        "rhyme_scheme": "-\u0254t\u0361\u0255",
+        "forms": [
+            {
+                "form": "choc",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "k\u0119dy": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "kiedy",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8kan.d\u0258]",
+        "rhyme_scheme": "-\u025bnd\u0258",
+        "forms": [
+            {
+                "form": "k\u00e1dy",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "zatem": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "which is why",
+                "tags": [
+                    "resultative"
+                ]
+            },
+            {
+                "translation": "then",
+                "tags": [
+                    "temporal"
+                ]
+            },
+            {
+                "translation": "after",
+                "tags": [
+                    "temporal"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8za.tem/",
+        "rhyme_scheme": "-at\u025bm",
+        "forms": [
+            {
+                "form": "zat\u00e9m",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "i\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "that",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "even though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "when",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "if",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "until",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "that is",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "i.e.",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "namely",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "because",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8i\u0282/",
+        "rhyme_scheme": "-i\u0282",
+        "forms": [
+            {
+                "form": "ize",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "jakby": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "in order to",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "so that",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8ja\u0261.b\u0258]",
+        "rhyme_scheme": "-a\u0261b\u0258",
+        "forms": [
+            {
+                "form": "jakby",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "gdy\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "because",
+                "tags": [
+                    "formal"
+                ]
+            },
+            {
+                "translation": "for",
+                "tags": [
+                    "formal"
+                ]
+            },
+            {
+                "translation": "whereas",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "contrastive"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "sometime",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "/\u0261d\u0268\u0282/",
+        "rhyme_scheme": "-\u0258\u0282",
+        "forms": [
+            {
+                "form": "gdy\u017c",
+                "tags": [
+                    "combined-form",
+                    "object-plural",
+                    "object-third-person"
+                ]
+            }
+        ]
+    },
+    "tudzie\u017c": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "lub",
+                "tags": [
+                    "proscribed"
+                ]
+            },
+            {
+                "translation": "or",
+                "tags": [
+                    "proscribed"
+                ]
+            },
+            {
+                "translation": "Tygodnik Angora",
+                "tags": [
+                    "proscribed"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8tu.d\u0361\u0291\u025b\u0282]",
+        "rhyme_scheme": "-ud\u0361\u0291\u025b\u0282",
+        "forms": [
+            {
+                "form": "tudzisem",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ali\u015bci": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "here",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "let alone",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "/a\u02c8li\u0255.t\u0361\u0255i/",
+        "rhyme_scheme": "-i\u0255t\u0361\u0255i",
+        "forms": [
+            {
+                "form": "ali\u017cci",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "albowiem": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "because",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "for",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/al\u02c8b\u0254.vj\u025bm/",
+        "rhyme_scheme": "-\u0254vj\u025bm",
+        "forms": [
+            {
+                "form": "albowim",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "p\u00f3ki": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "as long as",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "while",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "until",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "till",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "before",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8pu.ki/",
+        "rhyme_scheme": "-uki",
+        "forms": [
+            {
+                "form": "p\u00f3\u0142ko",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ani\u017celi": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "than",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/a.\u0272i\u02c8\u0290\u025b.li/",
+        "rhyme_scheme": "-\u025bli",
+        "forms": [
+            {
+                "form": "ani\u017ali",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ni\u017celi": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "than",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/\u0272i\u02c8\u0290\u025b.li/",
+        "rhyme_scheme": "-\u025bli",
+        "forms": [
+            {
+                "form": "nizli",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "abociem": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "for",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "because",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "/a\u02c8b\u0254.t\u0361\u0255em/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "abocim",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "a\u017cby": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "until",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "in order to",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "so that",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8a\u0290.b\u0268/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "azby",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "a\u017cci": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "as soon as",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "moment",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "immediately",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "after",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "but",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "contrastive",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "meanwhile",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "contrastive",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "until",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8a\u0282.t\u0361\u0255i]",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "a\u017ce\u0107",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "abowiemci": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "because",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            },
+            {
+                "translation": "for",
+                "tags": [
+                    "Middle",
+                    "Polish",
+                    "emphatic"
+                ]
+            }
+        ],
+        "ipa": "/a.b\u0254\u02c8vjem.t\u0361\u0255i/",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "abowimci",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "chocia": {
+        "word_type": "conj",
+        "translations": [
+            {
+                "translation": "though",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "although",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "either",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "or",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8x\u0254.t\u0361\u0255a]",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "choci\u00e1j",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    }
+}

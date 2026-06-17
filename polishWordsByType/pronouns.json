@@ -1,0 +1,1354 @@
+{
+    "on": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "he",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "animate",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "it",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "inanimate",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8on/",
+        "rhyme_scheme": "-\u0254n",
+        "forms": [
+            {
+                "form": "won",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "one": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "they",
+                "tags": [
+                    "nonvirile"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0254.n\u025b/",
+        "rhyme_scheme": "-\u0254n\u025b",
+        "forms": [
+            {
+                "form": "won",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "to": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "this",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0254/",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "te",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "ile": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "how much",
+                "tags": [
+                    "interrogative"
+                ]
+            },
+            {
+                "translation": "how many",
+                "tags": [
+                    "interrogative"
+                ]
+            },
+            {
+                "translation": "as much as",
+                "tags": [
+                    "relative"
+                ]
+            },
+            {
+                "translation": "as many as",
+                "tags": [
+                    "relative"
+                ]
+            },
+            {
+                "translation": "how much",
+                "tags": [
+                    "relative"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8i.l\u025b/",
+        "rhyme_scheme": "-il\u025b",
+        "forms": [
+            {
+                "form": "chylo",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ta": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "this",
+                "tags": [
+                    "feminine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ta/",
+        "rhyme_scheme": "-a",
+        "forms": [
+            {
+                "form": "-",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "co": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "what",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "subordinate clause",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "main clause",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "which",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "what",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "who",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "relative clause",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "main clause",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "which",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "that",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "what",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "who",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "why",
+                "tags": [
+                    "colloquial",
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8t\u0361s\u0254]",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "co",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "ona": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "she",
+                "tags": [
+                    "feminine"
+                ]
+            },
+            {
+                "translation": "it",
+                "tags": [
+                    "feminine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0254.na/",
+        "rhyme_scheme": "-\u0254na",
+        "forms": [
+            {
+                "form": "wona",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ono": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "it",
+                "tags": [
+                    "animate",
+                    "neuter",
+                    "person"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0254.n\u0254/",
+        "rhyme_scheme": "-\u0254n\u0254",
+        "forms": [
+            {
+                "form": "wono",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "oni": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "they",
+                "tags": [
+                    "virile"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0254.\u0272i/",
+        "rhyme_scheme": "-\u0254\u0272i",
+        "forms": [
+            {
+                "form": "-",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "kto": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "who",
+                "tags": [
+                    "interrogative",
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "who",
+                "tags": [
+                    "masculine",
+                    "person",
+                    "relative"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8kt\u0254]",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "fto",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "co\u015b": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "something",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "something",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "something",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0361s\u0254\u0255/",
+        "rhyme_scheme": "-\u0254\u0255",
+        "forms": [
+            {
+                "form": "co\u015b",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "kto\u015b": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "someone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "somebody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "someone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "somebody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "anyone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "anybody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "someone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "somebody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "someone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "somebody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8kt\u0254\u0255/",
+        "rhyme_scheme": "-\u0254\u0255",
+        "forms": [
+            {
+                "form": "ftosi",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "dlaczego": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "why",
+                "tags": [
+                    "interrogative"
+                ]
+            }
+        ],
+        "ipa": "/dl\u0252\u02c8t\u0361\u0282\u025b.\u0261\u0254/",
+        "rhyme_scheme": "-\u025b\u0261\u0254",
+        "forms": [
+            {
+                "form": "dlacygu",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "taki": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "that",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "type",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "some",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ta.ki/",
+        "rhyme_scheme": "-aki",
+        "forms": [
+            {
+                "form": "takich",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "wszystko": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "everything",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8f\u0282\u0258st.k\u0254]",
+        "rhyme_scheme": "-\u0258stk\u0254",
+        "forms": [
+            {
+                "form": "wszysko",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "sobie": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "oneself",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "myself",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "yourself",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "itself",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "just",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "ethical dative",
+                "tags": [
+                    "colloquial"
+                ]
+            },
+            {
+                "translation": "Polish Scientific Publishers PWN",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8s\u0254.bj\u025b/",
+        "rhyme_scheme": "-\u0254bj\u025b",
+        "forms": [
+            {
+                "form": "-",
+                "tags": [
+                    "plural",
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "nasz": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "our",
+                "tags": [
+                    "possessive"
+                ]
+            },
+            {
+                "translation": "our",
+                "tags": [
+                    "possessive"
+                ]
+            },
+            {
+                "translation": "our",
+                "tags": [
+                    "possessive"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8na\u0282/",
+        "rhyme_scheme": "-a\u0282",
+        "forms": [
+            {
+                "form": "naszych",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "ka\u017cdy": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "no",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            },
+            {
+                "translation": "none",
+                "tags": [
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8ka\u0290.d\u0258]",
+        "rhyme_scheme": "-a\u0290d\u0258",
+        "forms": [
+            {
+                "form": "ka\u017cdych",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "nikt": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "no one",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "nobody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272ikt/",
+        "rhyme_scheme": "-ikt",
+        "forms": [
+            {
+                "form": "nifto",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "wszyscy": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "all",
+                "tags": [
+                    "masculine",
+                    "plural"
+                ]
+            },
+            {
+                "translation": "everybody",
+                "tags": [
+                    "masculine",
+                    "plural"
+                ]
+            },
+            {
+                "translation": "everyone",
+                "tags": [
+                    "masculine",
+                    "plural"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8f\u0282\u0258s.t\u0361s\u0258/",
+        "rhyme_scheme": "-\u0258st\u0361s\u0258",
+        "forms": [
+            {
+                "form": "wszyscy",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "wszystkie": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "everybody",
+                "tags": [
+                    "nonvirile"
+                ]
+            },
+            {
+                "translation": "everyone",
+                "tags": [
+                    "nonvirile"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8f\u0282\u0258st.kj\u025b/",
+        "rhyme_scheme": "-\u0258stkj\u025b",
+        "forms": [
+            {
+                "form": "wszystkie",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "niekt\u00f3ry": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "some",
+                "tags": [
+                    "in-plural"
+                ]
+            }
+        ],
+        "ipa": "/\u0272ek\u02c8to.r\u0268/",
+        "rhyme_scheme": "-ur\u0258",
+        "forms": [
+            {
+                "form": "nichtory",
+                "tags": [
+                    "alternative",
+                    "Middle",
+                    "Polish"
+                ]
+            }
+        ]
+    },
+    "czyj": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "whose",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0361\u0282\u0258j/",
+        "rhyme_scheme": "-\u0258j",
+        "forms": [
+            {
+                "form": "czyich",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "cokolwiek": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "whatever",
+                "tags": [
+                    "neuter"
+                ]
+            },
+            {
+                "translation": "anything",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "/t\u0361s\u0254\u02c8k\u0254l.vj\u025bk/",
+        "rhyme_scheme": "-\u0254lvj\u025bk",
+        "forms": [
+            {
+                "form": "colek",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "ktokolwiek": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "anybody",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            },
+            {
+                "translation": "anyone",
+                "tags": [
+                    "masculine",
+                    "person"
+                ]
+            }
+        ],
+        "ipa": "/kt\u0254\u02c8k\u0254l.vj\u025bk/",
+        "rhyme_scheme": "-\u0254lvj\u025bk",
+        "forms": [
+            {
+                "form": "ktokolwiek",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "c\u00f3\u017c": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "what",
+                "tags": [
+                    "emphatic",
+                    "interrogative",
+                    "literary",
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8t\u0361su\u0282]",
+        "rhyme_scheme": "-u\u0282",
+        "forms": [
+            {
+                "form": "c\u00f3z",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "\u00f3w": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "that",
+                "tags": [
+                    "literary"
+                ]
+            },
+            {
+                "translation": "aforementioned",
+                "tags": [
+                    "literary"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8of/",
+        "rhyme_scheme": "-uf",
+        "forms": [
+            {
+                "form": "owych",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "niczyj": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "nobody's",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0272i.t\u0361\u0282\u0258j/",
+        "rhyme_scheme": "-it\u0361\u0282\u0258j",
+        "forms": [
+            {
+                "form": "niczyich",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "czyj\u015b": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "somebody's",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u0361\u0282\u0258j\u0255/",
+        "rhyme_scheme": "-\u0258j\u0255",
+        "forms": [
+            {
+                "form": "czyich\u015b",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "sraki": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "such",
+                "tags": [
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "so",
+                "tags": [
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "Jaki?",
+                "tags": [
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8sra.ki/",
+        "rhyme_scheme": "-aki",
+        "forms": [
+            {
+                "form": "srakich",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "niejeden": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "not",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "one",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "more",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "than",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u0272\u025b\u02c8j\u025b.d\u025bn/",
+        "rhyme_scheme": "-\u025bd\u025bn",
+        "forms": [
+            {
+                "form": "niejednych",
+                "tags": [
+                    "locative",
+                    "plural",
+                    "virile"
+                ]
+            }
+        ]
+    },
+    "co\u015bkolwiek": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "cokolwiek",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "/t\u0361s\u0254\u0255\u02c8k\u0254l.vj\u025bk/",
+        "rhyme_scheme": "-\u0254lvj\u025bk",
+        "forms": [
+            {
+                "form": "co\u015bkolwiek",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "ten\u017ce": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "idem",
+                "tags": [
+                    "literary",
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8t\u025bn.\u0290\u025b/",
+        "rhyme_scheme": "-\u025bn\u0290\u025b",
+        "forms": [
+            {
+                "form": "tenze",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "kt\u00f3ry\u015b": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "any",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "some",
+                "tags": [
+                    "masculine"
+                ]
+            },
+            {
+                "translation": "one",
+                "tags": [
+                    "masculine"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ktu.r\u0258\u0255/",
+        "rhyme_scheme": "-ur\u0258\u0255",
+        "forms": [
+            {
+                "form": "-",
+                "tags": [
+                    "plural",
+                    "virile",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "par\u0119set": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "hundred",
+                "tags": [
+                    "colloquial"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8pa.r\u025b.s\u025bt/",
+        "rhyme_scheme": "-ar\u025bs\u025bt",
+        "forms": [
+            {
+                "form": "par\u0119set",
+                "tags": [
+                    "plural",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "po choler\u0119": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "why",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            },
+            {
+                "translation": "what the heck",
+                "tags": [
+                    "colloquial",
+                    "idiomatic"
+                ]
+            }
+        ],
+        "ipa": "/p\u0254\u203fx\u0254\u02c8l\u025b.r\u025bw\u0303/",
+        "rhyme_scheme": "-\u025br\u025bw\u0303",
+        "forms": [
+            {
+                "form": "na choler\u0119",
+                "tags": [
+                    "canonical"
+                ]
+            }
+        ]
+    },
+    "po chuj": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "why",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "for",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "what",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "fucking",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "reason",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            },
+            {
+                "translation": "what the fuck",
+                "tags": [
+                    "idiomatic",
+                    "vulgar"
+                ]
+            }
+        ],
+        "ipa": "/p\u0254\u203f\u02c8xuj/",
+        "rhyme_scheme": "-uj",
+        "forms": [
+            {
+                "form": "po chuja",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "wsio": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "everything",
+                "tags": [
+                    "colloquial",
+                    "humorous"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8fsj\u0254/",
+        "rhyme_scheme": "-\u0254",
+        "forms": [
+            {
+                "form": "-",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "cejco": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "cokolwiek",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8t\u0361s\u025bj.t\u0361s\u0254]",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "cejce",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "kt\u00f3\u017c": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "who",
+                "tags": [
+                    "emphatic",
+                    "interrogative",
+                    "literary"
+                ]
+            },
+            {
+                "translation": "who",
+                "tags": [
+                    "emphatic",
+                    "literary",
+                    "relative"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8ktu\u0282/",
+        "rhyme_scheme": "-u\u0282",
+        "forms": [
+            {
+                "form": "kt\u00f3\u017c",
+                "tags": [
+                    "singular",
+                    "vocative"
+                ]
+            }
+        ]
+    },
+    "gdzie\u017c": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "where",
+                "tags": [
+                    "emphatic",
+                    "interrogative"
+                ]
+            }
+        ],
+        "ipa": "/\u02c8\u0261d\u0361\u0291\u025b\u0282/",
+        "rhyme_scheme": "-\u025b\u0282",
+        "forms": [
+            {
+                "form": "dziez",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    },
+    "cejnieco": {
+        "word_type": "pron",
+        "translations": [
+            {
+                "translation": "cokolwiek",
+                "tags": [
+                    "neuter"
+                ]
+            }
+        ],
+        "ipa": "[\u02c8t\u0361s\u025bj.\u0272\u025b.t\u0361s\u0254]",
+        "rhyme_scheme": "No rhyme scheme found",
+        "forms": [
+            {
+                "form": "cednieco",
+                "tags": [
+                    "alternative"
+                ]
+            }
+        ]
+    }
+}

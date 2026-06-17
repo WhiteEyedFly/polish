@@ -1,0 +1,253 @@
+{
+    "fa": [
+        {
+            "form": "fah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "above": [
+        {
+            "form": "fah",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "because": [
+        {
+            "form": "\u2235",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "of": [
+        {
+            "form": "a",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "for": [
+        {
+            "form": "fer",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "to": [
+        {
+            "form": "2",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "from": [
+        {
+            "form": "2",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "out of": [
+        {
+            "form": "outta",
+            "tags": [
+                "alternative",
+                "colloquial"
+            ]
+        }
+    ],
+    "outta": [
+        {
+            "form": "outa",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "into": [
+        {
+            "form": "intiv",
+            "tags": [
+                "alternative",
+                "Northumbria"
+            ]
+        }
+    ],
+    "through": [
+        {
+            "form": "thorough",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "behind": [
+        {
+            "form": "behine",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "o'": [
+        {
+            "form": "a",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "onto": [
+        {
+            "form": "on to",
+            "tags": [
+                "alternative",
+                "Australia",
+                "Canada",
+                "Commonwealth",
+                "Ireland",
+                "New-Zealand",
+                "South-Africa",
+                "UK",
+                "including",
+                "usually"
+            ]
+        }
+    ],
+    "twixt": [
+        {
+            "form": "'twixt",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "c/o": [
+        {
+            "form": "c/-",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "neath": [
+        {
+            "form": "'neath",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "fka": [
+        {
+            "form": "FKA",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "nr": [
+        {
+            "form": "nr.",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "on account of": [
+        {
+            "form": "onaccounta",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "wiv": [
+        {
+            "form": "wif",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "on to": [
+        {
+            "form": "onto",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "opp": [
+        {
+            "form": "opp.",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "on the heels of": [
+        {
+            "form": "upon the heels of",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "in favor of": [
+        {
+            "form": "in favour of",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "at the expense of": [
+        {
+            "form": "at one's expense",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "befo": [
+        {
+            "form": "befo'",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "at the hand of": [
+        {
+            "form": "at someone's hand",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ],
+    "with an eye to": [
+        {
+            "form": "with an eye to ...",
+            "tags": [
+                "canonical"
+            ]
+        }
+    ],
+    "macam": [
+        {
+            "form": "machiam",
+            "tags": [
+                "alternative"
+            ]
+        }
+    ]
+}
