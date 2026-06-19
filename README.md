@@ -32,3 +32,6 @@ app.py can be used as a revision tool
 app.py allows you to select your difficulty by preselecting for a subset of the total words present in the dictionary when random words or sentences are generated
 It also allows you to select between specific word types, all words or basic sentences to revise
 Just press run to launch a TKinter app
+
+# test.py
+AI generated code produced after the project was over. It has much less support than the rest of the project because I put far less love into it but I wanted to write "Used AI" on a project so
