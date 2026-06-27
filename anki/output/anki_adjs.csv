@@ -1,0 +1,680 @@
+﻿"Translate: (masc) 
+
+amerykański",american,adjective active_recall theme::Nationalities paradigm
+"Give all forms:
+
+black","Masculine: czarny
+Feminine: czarna
+Neuter: czarne",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+safe","Masculine: bezpieczny
+Feminine: bezpieczna
+Neuter: bezpieczne",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+tall / high","Masculine: wysoki
+Feminine: wysoka
+Neuter: wysokie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+dangerous","Masculine: niebezpieczny
+Feminine: niebezpieczna
+Neuter: niebezpieczne",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+stupid","Masculine: głupi
+Feminine: głupia
+Neuter: głupie",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Translate: (masc) 
+
+mały",small,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+miły",nice / pleasant,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+hiszpański",spanish,adjective active_recall theme::Nationalities paradigm
+"Give all forms:
+
+current","Masculine: aktualny
+Feminine: aktualna
+Neuter: aktualne",adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+szeroki",wide,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+bad","Masculine: zły
+Feminine: zła
+Neuter: złe",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+private","Masculine: prywatny
+Feminine: prywatna
+Neuter: prywatne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Give all forms:
+
+wet","Masculine: mokry
+Feminine: mokra
+Neuter: mokre",adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+wise / smart","Masculine: mądry
+Feminine: mądra
+Neuter: mądre",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+free (unoccupied)","Masculine: wolny
+Feminine: wolna
+Neuter: wolne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+red","Masculine: czerwony
+Feminine: czerwona
+Neuter: czerwone",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+past / last","Masculine: zeszły
+Feminine: zeszła
+Neuter: zeszłe",adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+dobry",good,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+czysty",clean,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+white","Masculine: biały
+Feminine: biała
+Neuter: białe",adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+nowoczesny",modern,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Give all forms:
+
+tasty / delicious","Masculine: smaczny
+Feminine: smaczna
+Neuter: smaczne",adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+blue","Masculine: niebieski
+Feminine: niebieska
+Neuter: niebieskie",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+clean","Masculine: czysty
+Feminine: czysta
+Neuter: czyste",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+tradycyjny",traditional,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+otwarty",open,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+bright / light","Masculine: jasny
+Feminine: jasna
+Neuter: jasne",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+good","Masculine: dobry
+Feminine: dobra
+Neuter: dobre",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+fresh","Masculine: świeży
+Feminine: świeża
+Neuter: świeże",adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+szary",grey,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+niebezpieczny",dangerous,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+german","Masculine: niemiecki
+Feminine: niemiecka
+Neuter: niemieckie",adjective active_recall theme::Nationalities paradigm
+"Give all forms:
+
+dry","Masculine: suchy
+Feminine: sucha
+Neuter: suche",adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+mokry",wet,adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+niebieski",blue,adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+expensive","Masculine: drogi
+Feminine: droga
+Neuter: drogie",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+tani",cheap,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+duży",big / large,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+codzienny",daily,adjective active_recall theme::Time_&_Frequency paradigm
+"Give all forms:
+
+green","Masculine: zielony
+Feminine: zielona
+Neuter: zielone",adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+wolny",free (unoccupied),adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+serious","Masculine: poważny
+Feminine: poważna
+Neuter: poważne",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+tired","Masculine: zmęczony
+Feminine: zmęczona
+Neuter: zmęczone",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+sad","Masculine: smutny
+Feminine: smutna
+Neuter: smutne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+chory",sick / ill,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+cold","Masculine: zimny
+Feminine: zimna
+Neuter: zimne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+happy","Masculine: szczęśliwy
+Feminine: szczęśliwa
+Neuter: szczęśliwe",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+brown","Masculine: brązowy
+Feminine: brązowa
+Neuter: brązowe",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+wide","Masculine: szeroki
+Feminine: szeroka
+Neuter: szerokie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+dark","Masculine: ciemny
+Feminine: ciemna
+Neuter: ciemne",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+legal","Masculine: legalny
+Feminine: legalna
+Neuter: legalne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+brzydki",ugly,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+orange","Masculine: pomarańczowy
+Feminine: pomarańczowa
+Neuter: pomarańczowe",adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+dirty","Masculine: brudny
+Feminine: brudna
+Neuter: brudne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+łatwy",easy,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+zimny",cold,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+funny / witty","Masculine: zabawny
+Feminine: zabawna
+Neuter: zabawne",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+spanish","Masculine: hiszpański
+Feminine: hiszańska
+Neuter: hiszeńskie",adjective active_recall theme::Nationalities paradigm
+"Give all forms:
+
+rich","Masculine: bogaty
+Feminine: bogata
+Neuter: bogate",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+poważny",serious,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+big / large","Masculine: duży
+Feminine: duża
+Neuter: duże",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+piękny",beautiful,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+daily","Masculine: codzienny
+Feminine: codzienna
+Neuter: codzienne",adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+ważny",important,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+sympatyczny",kind / sympathetic,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Translate: (masc) 
+
+zielony",green,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+wysoki",tall / high,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+boring","Masculine: nudny
+Feminine: nudna
+Neuter: nudne",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+small","Masculine: mały
+Feminine: mała
+Neuter: małe",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+krótki",short (length),adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+yellow","Masculine: żółty
+Feminine: żółta
+Neuter: żółte",adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+czarny",black,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+zły",bad,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+slow","Masculine: wolny
+Feminine: wolna
+Neuter: wolne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+zajęty",busy / occupied,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+warm","Masculine: ciepły
+Feminine: ciepła
+Neuter: ciepłe",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+english","Masculine: angielski
+Feminine: angielska
+Neuter: angielskie",adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+szybki",fast / quick,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+difficult / hard","Masculine: trudny
+Feminine: trudna
+Neuter: trudne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+oficjalny",official / formal,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Give all forms:
+
+open","Masculine: otwarty
+Feminine: otwarta
+Neuter: otwarte",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+modern","Masculine: nowoczesny
+Feminine: nowoczesna
+Neuter: nowoczesne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+ciepły",warm,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+french","Masculine: francuski
+Feminine: francuska
+Neuter: francuskie",adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+świeży",fresh,adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+cheap","Masculine: tani
+Feminine: tania
+Neuter: tanie",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+heavy","Masculine: ciężki
+Feminine: ciężka
+Neuter: ciężkie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+polite / well-behaved","Masculine: grzeczny
+Feminine: grzeczna
+Neuter: grzeczne",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+kind / sympathetic","Masculine: sympatyczny
+Feminine: sympatyczna
+Neuter: sympatyczne",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+interesting","Masculine: ciekawy
+Feminine: ciekawa
+Neuter: ciekawe",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+zdrowy",healthy,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+sick / ill","Masculine: chory
+Feminine: chora
+Neuter: chore",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+polish","Masculine: polski
+Feminine: polska
+Neuter: polskie",adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+trudny",difficult / hard,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+ciekawy",interesting,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+polski",polish,adjective active_recall theme::Nationalities paradigm
+"Give all forms:
+
+healthy","Masculine: zdrowy
+Feminine: zdrowa
+Neuter: zdrowe",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+short / low","Masculine: niski
+Feminine: niska
+Neuter: niskie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+public","Masculine: publiczny
+Feminine: publiczna
+Neuter: publiczne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+francuski",french,adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+legalny",legal,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+szczęśliwy",happy,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+long","Masculine: długi
+Feminine: długa
+Neuter: długie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+długi",long,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+biedny",poor,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+pomarańczowy",orange,adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+light (weight)","Masculine: lekki
+Feminine: lekka
+Neuter: lekkie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+ugly","Masculine: brzydki
+Feminine: brzydka
+Neuter: brzydkie",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+social / civic","Masculine: społeczny
+Feminine: społeczna
+Neuter: społeczne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+smaczny",tasty / delicious,adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+jasny",bright / light,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+wąski",narrow,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+drogi",expensive,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+aktualny",current,adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+zamknięty",closed,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+brudny",dirty,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+zabawny",funny / witty,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+fast / quick","Masculine: szybki
+Feminine: szybka
+Neuter: szybkie",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+biały",white,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+przyszły",future / next,adjective active_recall theme::Time_&_Frequency paradigm
+"Give all forms:
+
+grey","Masculine: szary
+Feminine: szara
+Neuter: szare",adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+niemiecki",german,adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+lekki",light (weight),adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+narrow","Masculine: wąski
+Feminine: wąska
+Neuter: wąskie",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+honest","Masculine: uczciwy
+Feminine: uczciwa
+Neuter: uczciwe",adjective active_recall theme::Intellectual_&_Personality paradigm
+"Translate: (masc) 
+
+niski",short / low,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+american","Masculine: amerykański
+Feminine: amerykańska
+Neuter: amerykańskie",adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+żółty",yellow,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+publiczny",public,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Give all forms:
+
+new","Masculine: nowy
+Feminine: nowa
+Neuter: nowe",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+nice / pleasant","Masculine: miły
+Feminine: miła
+Neuter: miłe",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+zmęczony",tired,adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+bitter","Masculine: gorzki
+Feminine: gorzka
+Neuter: gorzkie",adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+bezpieczny",safe,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+easy","Masculine: łatwy
+Feminine: łatwa
+Neuter: łatwe",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+ciężki",heavy,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+suchy",dry,adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+stary",old,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Give all forms:
+
+official / formal","Masculine: oficjalny
+Feminine: oficjalna
+Neuter: oficjalne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Give all forms:
+
+future / next","Masculine: przyszły
+Feminine: przyszła
+Neuter: przyszłe",adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+uczciwy",honest,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+sharp / spicy","Masculine: ostry
+Feminine: ostra
+Neuter: ostre",adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+wolny",slow,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+zeszły",past / last,adjective active_recall theme::Time_&_Frequency paradigm
+"Translate: (masc) 
+
+ostry",sharp / spicy,adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+beautiful","Masculine: piękny
+Feminine: piękna
+Neuter: piękne",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+słodki",sweet,adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+old","Masculine: stary
+Feminine: stara
+Neuter: stare",adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+społeczny",social / civic,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+czerwony",red,adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+traditional","Masculine: tradycyjny
+Feminine: tradycyjna
+Neuter: tradycyjne",adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+nudny",boring,adjective active_recall theme::Opinions_&_Feelings paradigm
+"Translate: (masc) 
+
+ciemny",dark,adjective active_recall theme::Colors paradigm
+"Translate: (masc) 
+
+angielski",english,adjective active_recall theme::Nationalities paradigm
+"Translate: (masc) 
+
+nowy",new,adjective active_recall theme::Descriptions_&_Sizes paradigm
+"Translate: (masc) 
+
+bogaty",rich,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+gorzki",bitter,adjective active_recall theme::Sensory_&_Physical paradigm
+"Give all forms:
+
+sweet","Masculine: słodki
+Feminine: słodka
+Neuter: słodkie",adjective active_recall theme::Sensory_&_Physical paradigm
+"Translate: (masc) 
+
+prywatny",private,adjective active_recall theme::Abstract_&_Mental_States paradigm
+"Translate: (masc) 
+
+smutny",sad,adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+głupi",stupid,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Translate: (masc) 
+
+mądry",wise / smart,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Translate: (masc) 
+
+grzeczny",polite / well-behaved,adjective active_recall theme::Intellectual_&_Personality paradigm
+"Give all forms:
+
+poor","Masculine: biedny
+Feminine: biedna
+Neuter: biedne",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+busy / occupied","Masculine: zajęty
+Feminine: zajęta
+Neuter: zajęte",adjective active_recall theme::Daily_Life_&_State paradigm
+"Give all forms:
+
+important","Masculine: ważny
+Feminine: ważna
+Neuter: ważne",adjective active_recall theme::Opinions_&_Feelings paradigm
+"Give all forms:
+
+closed","Masculine: zamknięty
+Feminine: zamknięta
+Neuter: zamknięte",adjective active_recall theme::Daily_Life_&_State paradigm
+"Translate: (masc) 
+
+brązowy",brown,adjective active_recall theme::Colors paradigm
+"Give all forms:
+
+short (length)","Masculine: krótki
+Feminine: krótka
+Neuter: krótkie",adjective active_recall theme::Descriptions_&_Sizes paradigm

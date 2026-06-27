@@ -1,0 +1,170 @@
+Thematic Group	English Translation	Polish Noun	Gender Category
+Places	School	szkoła	Feminine
+Places	Office	biuro	Neuter
+Places	Restaurant	restauracja	Feminine
+Places	City / town	miasto	Neuter
+Places	Store / shop	sklep	Masculine Inanimate
+Places	Hospital	szpital	Masculine Inanimate
+Places	Hotel	hotel	Masculine Inanimate
+Places	Airport	lotnisko	Neuter
+Places	Park	park	Masculine Inanimate
+Countries	Poland	Polska	Feminine
+Countries	England	Anglia	Feminine
+Countries	Germany	Niemcy	Masculine Inanimate
+Countries	United States	Stany Zjednoczone	Masculine Inanimate
+Countries	France	Francja	Feminine
+Countries	Spain	Hiszpania	Feminine
+Countries	Italy	Włochy	Masculine Inanimate
+Family members	Mother	matka	Feminine
+Family members	Father	ojciec	Masculine Personal
+Family members	Son	syn	Masculine Personal
+Family members	Daughter	córka	Feminine
+Family members	Brother	brat	Masculine Personal
+Family members	Sister	siostra	Feminine
+Family members	Husband	mąż	Masculine Personal
+Family members	Wife	żona	Feminine
+Family members	Child	dziecko	Neuter
+People	Passenger	pasażer	Masculine Personal
+People	Guest	gość	Masculine Personal
+People	Man	mężczyzna	Masculine Personal
+People	Woman	kobieta	Feminine
+People	Friend	przyjaciel	Masculine Personal
+People	Student	student	Masculine Personal
+People	Colleague	kolega	Masculine Personal
+People	Human	człowiek	Masculine Personal
+Hobby nouns	Sport	sport	Masculine Inanimate
+Hobby nouns	Film / movie	film	Masculine Inanimate
+Hobby nouns	Game	gra	Feminine
+Hobby nouns	Book	książka	Feminine
+Hobby nouns	Music	muzyka	Feminine
+Hobby nouns	Hobby	hobby	Neuter
+Hobby nouns	Travel	podróż	Feminine
+Hobby nouns	Photograph	zdjęcie	Neuter
+Animals	Horse	koń	Masculine Animal
+Animals	Bird	ptak	Masculine Animal
+Animals	Cow	krowa	Feminine
+Animals	Dog	pies	Masculine Animal
+Animals	Cat	kot	Masculine Animal
+Animals	Fish	ryba	Feminine
+Animals	Mouse	mysz	Feminine
+Household items	Table	stół	Masculine Inanimate
+Household items	Chair	krzesło	Neuter
+Household items	Bed	łóżko	Neuter
+Household items	Window	okno	Neuter
+Household items	Door	drzwi	Feminine
+Household items	Key	klucz	Masculine Inanimate
+Household items	Furniture	meble	Masculine Inanimate
+Electronics	Computer	komputer	Masculine Inanimate
+Electronics	Television	telewizor	Masculine Inanimate
+Electronics	Camera	aparat	Masculine Inanimate
+Electronics	Phone	telefon	Masculine Inanimate
+Electronics	Radio	radio	Neuter
+Electronics	Printer	drukarka	Feminine
+Electronics	Screen	ekran	Masculine Inanimate
+Times	Second	sekunda	Feminine
+Times	Minute	minuta	Feminine
+Times	Hour	godzina	Feminine
+Times	Week	tydzień	Masculine Inanimate
+Times	Month	miesiąc	Masculine Inanimate
+Times	Year	rok	Masculine Inanimate
+Times	Future	przyszłość	Feminine
+Times	Time	Czas	Masculine Inanimate
+Days	Monday	poniedziałek	Masculine Inanimate
+Days	Tuesday	wtorek	Masculine Inanimate
+Days	Wednesday	środa	Feminine
+Days	Thursday	czwartek	Masculine Inanimate
+Days	Friday	piątek	Masculine Inanimate
+Days	Saturday	sobota	Feminine
+Days	Sunday	niedziela	Feminine
+Days	Weekend	weekend	Masculine Inanimate
+Days	Holiday / day off	urlop	Masculine Inanimate
+Months	January	styczeń	Masculine Inanimate
+Months	February	luty	Masculine Inanimate
+Months	March	marzec	Masculine Inanimate
+Months	April	kwiecień	Masculine Inanimate
+Months	May	maj	Masculine Inanimate
+Months	June	czerwiec	Masculine Inanimate
+Months	July	lipiec	Masculine Inanimate
+Months	August	sierpień	Masculine Inanimate
+Months	September	wrzesień	Masculine Inanimate
+Months	October	październik	Masculine Inanimate
+Months	November	listopad	Masculine Inanimate
+Months	December	grudzień	Masculine Inanimate
+Jobs	Engineer	inżynier	Masculine Personal
+Jobs	Manager	menedżer	Masculine Personal
+Jobs	Chef / cook	kucharz	Masculine Personal
+Jobs	Doctor	lekarz	Masculine Personal
+Jobs	Teacher	nauczyciel	Masculine Personal
+Jobs	Lawyer	prawnik	Masculine Personal
+Jobs	Office worker	urzędnik	Masculine Personal
+Shopping items	Price	cena	Feminine
+Shopping items	Receipt	paragon	Masculine Inanimate
+Shopping items	Product	produkt	Masculine Inanimate
+Shopping items	Money	pieniądze	Masculine Inanimate
+Shopping items	Bag	torba	Feminine
+Shopping items	Discount	zniżka	Feminine
+Shopping items	Bill / invoice	rachunek	Masculine Inanimate
+Foods	Bread	chleb	Masculine Inanimate
+Foods	Apple	jabłko	Neuter
+Foods	Cheese	ser	Masculine Inanimate
+Foods	Coffee	kawa	Feminine
+Foods	Water	woda	Feminine
+Foods	Milk	mleko	Neuter
+Foods	Vegetable	warzywo	Neuter
+Foods	Breakfast	śniadanie	Neuter
+Foods	Meat	mięso	Neuter
+Feelings & Emotions	Love	miłość	Feminine
+Feelings & Emotions	Fear	strach	Masculine Inanimate
+Feelings & Emotions	Happiness	szczęście	Neuter
+Feelings & Emotions	Anger	gniew	Masculine Inanimate
+Feelings & Emotions	Sadness	smutek	Masculine Inanimate
+Weather & Nature	Weather	pogoda	Feminine
+Weather & Nature	Sun	słońce	Neuter
+Weather & Nature	Rain	deszcz	Masculine Inanimate
+Weather & Nature	Wind	wiatr	Masculine Inanimate
+Weather & Nature	Tree	drzewo	Neuter
+Transport	Car	samochód	Masculine Inanimate
+Transport	Train	pociąg	Masculine Inanimate
+Transport	Bus	autobus	Masculine Inanimate
+Transport	Bicycle	rower	Masculine Inanimate
+Transport	Tram	tramwaj	Masculine Inanimate
+Transport	Ticket	bilet	Masculine Inanimate
+Body parts	Head	głowa	Feminine
+Body parts	Hand / arm	ręka	Feminine
+Body parts	Leg / foot	noga	Feminine
+Body parts	Eye	oko	Neuter
+Body parts	Ear	ucho	Neuter
+Body parts	Back	plecy	Masculine Inanimate
+Clothes	Shirt	koszula	Feminine
+Clothes	Trousers / pants	spodnie	Masculine Inanimate
+Clothes	Shoes	buty	Masculine Inanimate
+Clothes	Jacket	kurtka	Feminine
+Clothes	Dress	sukienka	Feminine
+Thematic Group	English Translation	Polish Noun	Gender Category
+Education & science	Subject / school course	przedmiot	Masculine Inanimate
+Education & science	Mathematics	matematyka	Feminine
+Education & science	History	historia	Feminine
+Education & science	Science / knowledge	nauka	Feminine
+Education & science	Notebook	zeszyt	Masculine Inanimate
+Jobs	Hairdresser	fryzjer	Masculine Personal
+Jobs	Beautician	kosmetyczka	Feminine
+Jobs	Post office	poczta	Feminine
+Jobs	Police	policja	Feminine
+Jobs	Pharmacy	apteka	Feminine
+Jobs	Service / favor	usługa	Feminine
+Leisure & culture	Newspaper / press	gazeta	Feminine
+Leisure & culture	News / information	wiadomości	Feminine
+Leisure & culture	Internet	internet	Masculine Inanimate
+Leisure & culture	Concert	koncert	Masculine Inanimate
+Leisure & culture	Exhibition	wystawa	Feminine
+Leisure & culture	Theater	teatr	Masculine Inanimate
+Abstract concepts & state	Law	prawo	Neuter
+Abstract concepts & state	Government	rząd	Masculine Inanimate
+Abstract concepts & state	State / country	państwo	Neuter
+Abstract concepts & state	Society	społeczeństwo	Neuter
+Abstract concepts & state	Problem	problem	Masculine Inanimate
+Abstract concepts & state	Rule / principle	zasada	Feminine
+Curses	Asshole	dupek	Masculine
+Curses	Bitch	suka	Feminine
+Curses	Jerk	kreytyn	Masculine
+Curses	Dick	chuj	Masculine
